@@ -107,12 +107,12 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
     width: fit-content;
-    color: var(--site-title-color);
+    color: rgb(255 255 255);
   }
 
   .site-subtitle {
     font-size: 95%;
-    color: var(--site-subtitle-color);
+    color: rgb(255 255 255);
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;
