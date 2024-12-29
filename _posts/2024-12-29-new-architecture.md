@@ -28,7 +28,7 @@ pin: true
 
 
 
-![](/assets/img/2024-12-29/async-on-layout.gif){: style="display: center; width: 250px; margin: 0 auto;"}
+![](/assets/img/2024-12-29/4.gif){: style="display: center; width: 250px; margin: 0 auto;"}
 _비동기화로 인한 렌더링의 문제 예시_
 
 > 이 모든 문제는 __"리액트의 동시(concurrent) 기능을 적절하게 접목하지 못하게 만들었다."__
