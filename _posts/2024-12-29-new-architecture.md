@@ -5,7 +5,7 @@ date: 2024-12-29
 categories: [react-native]
 image: /assets/img/default/react-native.png
 tags: [React Native]
-pin: true
+pin: false
 ---
 
 ## Old Architecture?

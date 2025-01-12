@@ -5,11 +5,17 @@ date: 2025-01-02
 categories: [react-native]
 image: /assets/img/default/react-native.png
 tags: [React Native]
-pin: true
+pin: false
 ---
 
 ## 리액트 네이티브 브릿지(Bridge)란?
 ---
+브릿지는 리액트 네이티브의 Old Architecture에서 사용되는 하나의 통신 모드이다.
+
+Old Architecture로 동작하는 리액트 네이티브는 네이티브 모듈을 호출하기 위해 자바스크립트를 사용했다. 그러나 서로의 언어가 다르기에 자바스크립트에서 네이티브 모듈을 직접 호출할 수 없었으며 두 엔진 간에 통신이 가능하게 도와주는 통로가 필요했는데 그것이 __"브릿지"__ 이다.
+
+자세한 내용은 [React Native 브릿지(Bridge)와 렌더링 과정
+](https://wonhyunkwon.github.io/posts/bridge/) 포스트를 참고하면 도움이 될 것이다.
 
 ## Transition
 ---
